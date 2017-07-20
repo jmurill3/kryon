@@ -1,0 +1,539 @@
+﻿14:05:07.669 T:10300  NOTICE: special://profile/ is mapped to: special://masterprofile/
+14:05:07.669 T:10300  NOTICE: -----------------------------------------------------------------------
+14:05:07.669 T:10300  NOTICE: Starting Kodi (17.3 Git:20170524-147cec4). Platform: Windows NT x86 32-bit
+14:05:07.669 T:10300  NOTICE: Using Release Kodi x32 build
+14:05:07.669 T:10300  NOTICE: Kodi compiled May 24 2017 by MSVC 190024215 for Windows NT x86 32-bit version 10.0 (0x0A000000)
+14:05:07.669 T:10300  NOTICE: Running on Dell Inc. Studio 1749 with Windows 10, kernel: Windows NT x86 64-bit version 10.0
+14:05:07.670 T:10300  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+14:05:07.670 T:10300  NOTICE: Host CPU: Unknown, 4 cores available
+14:05:07.670 T:10300  NOTICE: Desktop Resolution: 1600x900 32Bit at 60Hz
+14:05:07.670 T:10300  NOTICE: Running with restricted rights
+14:05:07.673 T:10300  NOTICE: Aero is enabled
+14:05:07.673 T:10300  NOTICE: special://xbmc/ is mapped to: C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p
+14:05:07.673 T:10300  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p
+14:05:07.673 T:10300  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p/addons
+14:05:07.673 T:10300  NOTICE: special://masterprofile/ is mapped to: C:\Users\thebo\AppData\Roaming\Kodi\userdata
+14:05:07.673 T:10300  NOTICE: special://home/ is mapped to: C:\Users\thebo\AppData\Roaming\Kodi\
+14:05:07.673 T:10300  NOTICE: special://temp/ is mapped to: C:\Users\thebo\AppData\Roaming\Kodi\cache
+14:05:07.673 T:10300  NOTICE: special://logpath/ is mapped to: C:\Users\thebo\AppData\Roaming\Kodi\
+14:05:07.673 T:10300  NOTICE: The executable running is: C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\Kodi.exe
+14:05:07.678 T:10300  NOTICE: Local hostname: DESKTOP-KCAIAJL
+14:05:07.678 T:10300  NOTICE: Log File is located: C:\Users\thebo\AppData\Roaming\Kodi\/kodi.log
+14:05:07.678 T:10300  NOTICE: -----------------------------------------------------------------------
+14:05:07.684 T:10300  NOTICE: load settings...
+14:05:07.702 T:10300 WARNING: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
+14:05:07.702 T:10300 WARNING: CSettingString: unknown options filler "timezones" of "locale.timezone"
+14:05:07.712 T:10300  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+14:05:07.713 T:10300  NOTICE: Loaded settings file from special://profile/advancedsettings.xml
+14:05:07.713 T:10300  NOTICE: Contents of special://profile/advancedsettings.xml are...
+                                            <!-- zerocache -->
+                                            <advancedsettings>
+                                              <network>
+                                                <cachemembuffersize>0</cachemembuffersize>
+                                                <curlclienttimeout>45</curlclienttimeout>
+                                              </network>
+                                              <gui>
+                                                <algorithmdirtyregions>3</algorithmdirtyregions>
+                                                <nofliptimeout>0</nofliptimeout>
+                                              </gui>
+                                              <videoscanner>
+                                                <ignoreerrors>true</ignoreerrors>
+                                              </videoscanner>
+                                            </advancedsettings>
+14:05:07.714 T:10300  NOTICE: Default Video Player: VideoPlayer
+14:05:07.714 T:10300  NOTICE: Default Audio Player: paplayer
+14:05:07.714 T:10300  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+14:05:07.714 T:10300  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+14:05:07.714 T:10300  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+14:05:07.716 T:10300  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+14:05:07.716 T:10300  NOTICE: Loaded playercorefactory configuration
+14:05:07.717 T:10300  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+14:05:07.717 T:10300  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+14:05:07.736 T:10300  NOTICE: Running database version Addons27
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.xbmc.org
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.GearsTV
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.M-TVGuide
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.noobsandnerds
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.filmkodi.com
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.q
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.aresproject
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.bubbles
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.dandymedia
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.elysium
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.exodus
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.tva.common
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.primaeval
+14:05:08.031 T:10300  NOTICE: ADDONS: Using repository repository.schismtvaddons
+14:05:08.085 T:9448  NOTICE: Found 2 Lists of Devices
+14:05:08.086 T:9448  NOTICE: Enumerated DIRECTSOUND devices:
+14:05:08.086 T:9448  NOTICE:     Device 1
+14:05:08.086 T:9448  NOTICE:         m_deviceName      : {E8EB9A20-14F2-4D67-8B31-3557B3203B65}
+14:05:08.086 T:9448  NOTICE:         m_displayName     : Speakers - Speakers / Headphones (IDT High Definition Audio CODEC)
+14:05:08.086 T:9448  NOTICE:         m_displayNameExtra: DIRECTSOUND: Speakers / Headphones (IDT High Definition Audio CODEC)
+14:05:08.086 T:9448  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:05:08.086 T:9448  NOTICE:         m_channels        : FL,FR
+14:05:08.086 T:9448  NOTICE:         m_sampleRates     : 48000
+14:05:08.086 T:9448  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+14:05:08.086 T:9448  NOTICE:         m_streamTypes     : No passthrough capabilities
+14:05:08.086 T:9448  NOTICE:     Device 2
+14:05:08.086 T:9448  NOTICE:         m_deviceName      : default
+14:05:08.086 T:9448  NOTICE:         m_displayName     : default
+14:05:08.086 T:9448  NOTICE:         m_displayNameExtra:
+14:05:08.086 T:9448  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:05:08.086 T:9448  NOTICE:         m_channels        : FL,FR
+14:05:08.086 T:9448  NOTICE:         m_sampleRates     : 48000
+14:05:08.086 T:9448  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+14:05:08.086 T:9448  NOTICE:         m_streamTypes     : No passthrough capabilities
+14:05:08.086 T:9448  NOTICE: Enumerated WASAPI devices:
+14:05:08.086 T:9448  NOTICE:     Device 1
+14:05:08.086 T:9448  NOTICE:         m_deviceName      : {E8EB9A20-14F2-4D67-8B31-3557B3203B65}
+14:05:08.086 T:9448  NOTICE:         m_displayName     : Speakers - Speakers / Headphones (IDT High Definition Audio CODEC)
+14:05:08.086 T:9448  NOTICE:         m_displayNameExtra: WASAPI: Speakers / Headphones (IDT High Definition Audio CODEC)
+14:05:08.086 T:9448  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:05:08.086 T:9448  NOTICE:         m_channels        : FL,FR
+14:05:08.086 T:9448  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+14:05:08.086 T:9448  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+14:05:08.086 T:9448  NOTICE:         m_streamTypes     : No passthrough capabilities
+14:05:08.086 T:9448  NOTICE:     Device 2
+14:05:08.086 T:9448  NOTICE:         m_deviceName      : default
+14:05:08.086 T:9448  NOTICE:         m_displayName     : default
+14:05:08.086 T:9448  NOTICE:         m_displayNameExtra:
+14:05:08.086 T:9448  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:05:08.086 T:9448  NOTICE:         m_channels        : FL,FR
+14:05:08.086 T:9448  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+14:05:08.086 T:9448  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+14:05:08.086 T:9448  NOTICE:         m_streamTypes     : No passthrough capabilities
+14:05:08.159 T:10300  NOTICE: Found screen: Generic PnP Monitor on Intel(R) HD Graphics, adapter 0.
+14:05:08.159 T:10300  NOTICE: Primary mode: 1600x900@ 60.00 - Full Screen
+14:05:08.160 T:10300  NOTICE: Additional mode: 320x200@ 60.00 - Full Screen
+14:05:08.160 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.160 T:10300  NOTICE: Additional mode: 320x240@ 60.00 - Full Screen
+14:05:08.161 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.161 T:10300  NOTICE: Additional mode: 400x300@ 60.00 - Full Screen
+14:05:08.161 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.161 T:10300  NOTICE: Additional mode: 512x384@ 60.00 - Full Screen
+14:05:08.162 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.162 T:10300  NOTICE: Additional mode: 640x400@ 60.00 - Full Screen
+14:05:08.162 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.162 T:10300  NOTICE: Additional mode: 640x480@ 60.00 - Full Screen
+14:05:08.163 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.163 T:10300  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+14:05:08.163 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.163 T:10300  NOTICE: Additional mode: 1024x768@ 60.00 - Full Screen
+14:05:08.164 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.164 T:10300  NOTICE: Additional mode: 1152x864@ 60.00 - Full Screen
+14:05:08.164 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.164 T:10300  NOTICE: Additional mode: 1280x720@ 60.00 - Full Screen
+14:05:08.165 T:10300  NOTICE: Previous line repeats 1 times.
+14:05:08.165 T:10300  NOTICE: Additional mode: 1280x768@ 60.00 - Full Screen
+14:05:08.165 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.165 T:10300  NOTICE: Additional mode: 1280x800@ 60.00 - Full Screen
+14:05:08.166 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.166 T:10300  NOTICE: Additional mode: 1360x768@ 60.00 - Full Screen
+14:05:08.166 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.166 T:10300  NOTICE: Additional mode: 1366x768@ 60.00 - Full Screen
+14:05:08.167 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.167 T:10300  NOTICE: Additional mode: 1440x900@ 60.00 - Full Screen
+14:05:08.167 T:10300  NOTICE: Previous line repeats 2 times.
+14:05:08.167 T:10300  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+14:05:08.167 T:10300  NOTICE: Checking resolution 16
+14:05:08.801 T:10300   ERROR: POParser: warning, unhandled escape character. Problematic entry: 
+                                            msgctxt "#34220"
+                                            msgid "The label to show for streams with multiple audio languages. Either show all languages or the word [I]Multi[\I]."
+                                            msgstr ""
+14:05:08.914 T:11228  NOTICE: Running database version Addons27
+14:05:08.917 T:11228  NOTICE: Running database version ViewModes6
+14:05:08.919 T:11228  NOTICE: Running database version Textures13
+14:05:08.924 T:11228  NOTICE: Running database version MyMusic60
+14:05:08.935 T:11228  NOTICE: Running database version MyVideos107
+14:05:08.938 T:11228  NOTICE: Running database version TV29
+14:05:08.941 T:11228  NOTICE: Running database version Epg11
+14:05:09.241 T:10300 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+14:05:09.572 T:10300  NOTICE: initialize done
+14:05:09.572 T:10300  NOTICE: Running the application...
+14:05:09.573 T:10300  NOTICE: starting upnp client
+14:05:09.580 T:10344  NOTICE: ES: Starting UDP Event server on port 9777
+14:05:09.580 T:10344  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+14:05:19.170 T:6164  NOTICE: Skin Helper Backgrounds --> BackgroundsUpdater - started
+14:05:22.432 T:6784  NOTICE: [plugin.video.youtube] Startup: detected Krypton (Kodi-17.3), setting DASH_SUPPORT_BUILTIN = False, DASH_SUPPORT_ADDON = True
+14:05:22.568 T:4304 WARNING: CPythonInvoker(1, C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.program.mtvguidepro\service.py): the python script "C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.program.mtvguidepro\service.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+14:05:22.668 T:10464  NOTICE: Skin Helper Service --> WebService - start helper webservice on port 52307
+14:05:22.669 T:9020  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.3 started
+14:05:26.138 T:7612  NOTICE: [SPECTO]: ->----------                PARAMS: {'action': 'service'}
+14:07:37.644 T:10300   ERROR: CCurlFile::FillBuffer - Failed: Couldn't resolve host name(6)
+14:07:37.644 T:10300   ERROR: CCurlFile::Open failed with code 0 for http://wolf-pack,netai.net/repo
+14:07:37.644 T:10300   ERROR: XFILE::CHTTPDirectory::GetDirectory - Unable to get http directory (http://wolf-pack,netai.net/repo)
+14:07:37.676 T:10300   ERROR: XFILE::CDirectory::GetDirectory - Error getting http://wolf-pack,netai.net/repo
+14:08:30.196 T:3108   ERROR: XFILE::CDirectory::GetDirectory - Error getting
+14:08:55.057 T:4856   ERROR: Previous line repeats 2 times.
+14:08:55.057 T:4856   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/daisy_tulip/raw/master/addons.xml.md5
+14:08:55.057 T:4856   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/daisy_tulip/raw/master/addons.xml.md5>
+14:08:55.057 T:4856   ERROR: CRepository: failed read 'https://github.com/lewblack125/daisy_tulip/raw/master/addons.xml.md5'
+14:08:57.255 T:4856   ERROR: CCurlFile::Open failed with code 404 for http://schism-tv.net/addons/addons.xml.md5
+14:08:57.255 T:4856   ERROR: XFILE::CFileCache::Open - failed to open source <http://schism-tv.net/addons/addons.xml.md5>
+14:08:57.255 T:4856   ERROR: CRepository: failed read 'http://schism-tv.net/addons/addons.xml.md5'
+14:09:39.134 T:3108   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+14:09:39.134 T:3108   ERROR: CCurlFile::Open failed with code 0 for https://offshoregit.com/bubbles/repository/common/addons.xml.md5
+14:09:39.134 T:3108   ERROR: XFILE::CFileCache::Open - failed to open source <https://offshoregit.com/bubbles/repository/common/addons.xml.md5>
+14:09:39.134 T:3108   ERROR: CRepository: failed read 'https://offshoregit.com/bubbles/repository/common/addons.xml.md5'
+14:10:14.106 T:8296   ERROR: XFILE::CDirectory::GetDirectory - Error getting
+14:10:42.919 T:1000   ERROR: Previous line repeats 6 times.
+14:10:42.919 T:1000  NOTICE: URLResolver: Initializing URLResolver version: 3.0.33.01
+14:10:43.503 T:1000 WARNING: Attempt to use invalid handle -1
+14:10:49.268 T:10300   ERROR: Unable to find plugin plugin.video.f4mTester
+14:11:01.755 T:7296  NOTICE: URLResolver: Initializing URLResolver version: 3.0.33.01
+14:11:01.955 T:7296 WARNING: Attempt to use invalid handle -1
+14:11:07.047 T:10300  NOTICE: VideoPlayer: Opening:
+14:11:07.047 T:10300 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+14:11:07.048 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 104 for 1.
+14:11:07.048 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 105 for 1.
+14:11:07.049 T:4456  NOTICE: Creating InputStream
+14:11:07.049 T:4456   ERROR: CVideoPlayer::OpenInputStream - error opening []
+14:11:07.049 T:4456  NOTICE: CVideoPlayer::OnExit()
+14:11:07.058 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:11:07.058 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:11:07.058 T:10300  NOTICE: VideoPlayer: finished waiting
+14:11:07.058 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:11:07.058 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:11:07.058 T:10300  NOTICE: VideoPlayer: finished waiting
+14:11:08.051 T:10300  NOTICE: VideoPlayer: Opening: http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fbackup.sportsstreams.co.uk%3A8000%2Flive%2Farrong01%40gmail.com%2F050318%2F573.ts&swf=None&auth=&simpledownloader=False
+14:11:08.051 T:10300 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+14:11:08.051 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 104 for 1.
+14:11:08.051 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 105 for 1.
+14:11:08.052 T:10368  NOTICE: Creating InputStream
+14:11:08.397 T:3304   ERROR: 127.0.0.1 - - [21/Jun/2017 14:11:08] "GET /callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fbackup.sportsstreams.co.uk%3A8000%2Flive%2Farrong01%40gmail.com%2F050318%2F573.ts&swf=None&auth=&simpledownloader=False HTTP/1.1" 200 -
+14:11:09.800 T:10368  NOTICE: Creating Demuxer
+14:11:09.947 T:10368  NOTICE: Opening stream: 0 source: 256
+14:11:09.948 T:10368  NOTICE: Creating video codec with codec id: 28
+14:11:09.958 T:10368  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+14:11:09.958 T:10368  NOTICE: Creating video thread
+14:11:09.959 T:10808  NOTICE: running thread: video_thread
+14:11:09.961 T:10368  NOTICE: Opening stream: 1 source: 256
+14:11:09.961 T:10368  NOTICE: Finding audio codec for: 86018
+14:11:09.962 T:10368  NOTICE: Creating audio thread
+14:11:09.962 T:6240  NOTICE: running thread: CVideoPlayerAudio::Process()
+14:11:09.975 T:10368  NOTICE: Opening stream: 0 source: 256
+14:11:09.975 T:10368  NOTICE: Creating video codec with codec id: 28
+14:11:09.975 T:10368  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+14:11:09.976 T:10368  NOTICE: Opening stream: 1 source: 256
+14:11:09.978 T:10808  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(544x576)
+14:11:09.991 T:6240  NOTICE: Creating audio stream (codec id: 86018, channels: 2, sample rate: 48000, no pass-through)
+14:11:10.064 T:10300  NOTICE: D3D: rendering method forced to DXVA processor
+14:11:10.064 T:10300  NOTICE: DXVA::CProcessorHD::InitProcessor: Supported deinterlace methods: Blend:yes, Bob:yes, Adaptive:yes, MoComp:no.
+14:11:10.112 T:10300 WARNING: CWinRenderer::UpdateVideoFilter - chosen scaling method 1 is not supported by renderer
+14:11:10.881 T:10808  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 40000
+14:11:24.839 T:10300   ERROR: Control 55 in window 10025 has been asked to focus, but it can't
+14:11:37.776 T:1500  NOTICE: URLResolver: Initializing URLResolver version: 3.0.33.01
+14:11:38.100 T:1500 WARNING: Attempt to use invalid handle -1
+14:11:38.612 T:10808 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+14:11:39.372 T:10300 WARNING: Previous line repeats 1 times.
+14:11:39.372 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:11:39.372 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:11:39.382 T:10368  NOTICE: CVideoPlayer::OnExit()
+14:11:39.382 T:10368  NOTICE: Closing stream player 1
+14:11:39.382 T:10368  NOTICE: Waiting for audio thread to exit
+14:11:39.396 T:6240  NOTICE: thread end: CVideoPlayerAudio::OnExit()
+14:11:39.396 T:10368  NOTICE: Closing audio device
+14:11:39.412 T:10368  NOTICE: Deleting audio codec
+14:11:39.413 T:10368  NOTICE: Closing stream player 2
+14:11:39.413 T:10368  NOTICE: waiting for video thread to exit
+14:11:39.448 T:10808  NOTICE: thread end: video_thread
+14:11:39.449 T:10368  NOTICE: deleting video codec
+14:11:39.451 T:10368  NOTICE: DXVA::CDecoder::Close - closing decoder
+14:11:39.451 T:10368  NOTICE: DXVA::Close - closing decoder context
+14:11:50.879 T:10300  NOTICE: VideoPlayer: finished waiting
+14:11:50.881 T:10300  NOTICE: VideoPlayer: Opening:
+14:11:50.882 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 104 for 1.
+14:11:50.882 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 105 for 1.
+14:11:50.883 T:10312  NOTICE: Creating InputStream
+14:11:50.883 T:10312   ERROR: CVideoPlayer::OpenInputStream - error opening []
+14:11:50.883 T:10312  NOTICE: CVideoPlayer::OnExit()
+14:11:50.897 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:11:50.898 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:11:50.898 T:10300  NOTICE: VideoPlayer: finished waiting
+14:11:50.898 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:11:50.898 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:11:50.898 T:10300  NOTICE: VideoPlayer: finished waiting
+14:11:51.068 T:1500 WARNING: CPythonInvoker(19, C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.wolfpack\default.py): the python script "C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.wolfpack\default.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+14:11:51.074 T:7296 WARNING: CPythonInvoker(17, C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.wolfpack\default.py): the python script "C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.wolfpack\default.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+14:11:51.091 T:10300  NOTICE: VideoPlayer: Opening: http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fbackup.sportsstreams.co.uk%3A8000%2Flive%2Farrong01%40gmail.com%2F050318%2F9503.ts&swf=None&auth=&simpledownloader=False
+14:11:51.091 T:10300 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+14:11:51.091 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 104 for 1.
+14:11:51.091 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 105 for 1.
+14:11:51.092 T:9252  NOTICE: Creating InputStream
+14:11:51.095 T:3304   ERROR: Traceback (most recent call last):
+14:11:51.095 T:3304   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 599, in process_request_thread
+14:11:51.097 T:3304   ERROR:     self.finish_request(request, client_address)
+14:11:51.097 T:3304   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 334, in finish_request
+14:11:51.097 T:3304   ERROR:     self.RequestHandlerClass(request, client_address, self)
+14:11:51.097 T:3304   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 655, in __init__
+14:11:51.097 T:3304   ERROR:     self.handle()
+14:11:51.097 T:3304   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\BaseHTTPServer.py", line 342, in handle
+14:11:51.098 T:3304   ERROR:     self.handle_one_request()
+14:11:51.098 T:3304   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\BaseHTTPServer.py", line 310, in handle_one_request
+14:11:51.098 T:7888   ERROR: 127.0.0.1 - - [21/Jun/2017 14:11:51] "GET /callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fbackup.sportsstreams.co.uk%3A8000%2Flive%2Farrong01%40gmail.com%2F050318%2F9503.ts&swf=None&auth=&simpledownloader=False HTTP/1.1" 200 -
+14:11:51.098 T:3304   ERROR:     self.raw_requestline = self.rfile.readline(65537)
+14:11:51.098 T:3304   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\socket.py", line 480, in readline
+14:11:51.099 T:3304   ERROR:     data = self._sock.recv(self._rbufsize)
+14:11:51.099 T:3304   ERROR: AttributeError: 'NoneType' object has no attribute 'recv'
+14:11:54.088 T:7888   ERROR: Traceback (most recent call last):
+14:11:54.088 T:7888   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 599, in process_request_thread
+14:11:54.088 T:7888   ERROR:     self.finish_request(request, client_address)
+14:11:54.088 T:7888   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 334, in finish_request
+14:11:54.088 T:7888   ERROR:     self.RequestHandlerClass(request, client_address, self)
+14:11:54.088 T:7888   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 655, in __init__
+14:11:54.088 T:7888   ERROR:     self.handle()
+14:11:54.088 T:7888   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\BaseHTTPServer.py", line 342, in handle
+14:11:54.088 T:7888   ERROR:     self.handle_one_request()
+14:11:54.088 T:7888   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\BaseHTTPServer.py", line 310, in handle_one_request
+14:11:54.089 T:7888   ERROR:     self.raw_requestline = self.rfile.readline(65537)
+14:11:54.089 T:7888   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\socket.py", line 480, in readline
+14:11:54.089 T:7888   ERROR:     data = self._sock.recv(self._rbufsize)
+14:11:54.089 T:7888   ERROR: AttributeError: 'NoneType' object has no attribute 'recv'
+14:11:54.090 T:9252  NOTICE: Creating Demuxer
+14:11:54.140 T:9252 WARNING: could not find codec parameters for http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fbackup.sportsstreams.co.uk%3A8000%2Flive%2Farrong01%40gmail.com%2F050318%2F9503.ts&swf=None&auth=&simpledownloader=False
+14:11:54.141 T:9252  NOTICE: CVideoPlayer::OnExit()
+14:11:54.141 T:9252  NOTICE: VideoPlayer: eof, waiting for queues to empty
+14:11:54.160 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:11:54.160 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:11:54.160 T:10300  NOTICE: VideoPlayer: finished waiting
+14:11:54.160 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:11:54.160 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:11:54.160 T:10300  NOTICE: VideoPlayer: finished waiting
+14:11:55.940 T:1000 WARNING: CPythonInvoker(16, C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.wolfpack\default.py): the python script "C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.wolfpack\default.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+14:12:55.617 T:11172  NOTICE: URLResolver: Initializing URLResolver version: 3.0.33.01
+14:12:55.813 T:11172 WARNING: Attempt to use invalid handle -1
+14:12:56.431 T:10300  NOTICE: VideoPlayer: Opening:
+14:12:56.431 T:10300 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+14:12:56.432 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 104 for 1.
+14:12:56.432 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 105 for 1.
+14:12:56.432 T:6916  NOTICE: Creating InputStream
+14:12:56.433 T:6916   ERROR: CVideoPlayer::OpenInputStream - error opening []
+14:12:56.433 T:6916  NOTICE: CVideoPlayer::OnExit()
+14:12:56.444 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:12:56.444 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:12:56.444 T:10300  NOTICE: VideoPlayer: finished waiting
+14:12:56.444 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:12:56.444 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:12:56.444 T:10300  NOTICE: VideoPlayer: finished waiting
+14:12:57.464 T:10300  NOTICE: VideoPlayer: Opening: http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fbackup.sportsstreams.co.uk%3A8000%2Flive%2Farrong01%40gmail.com%2F050318%2F492.ts&swf=None&auth=&simpledownloader=False
+14:12:57.464 T:10300 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+14:12:57.464 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 104 for 1.
+14:12:57.464 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 105 for 1.
+14:12:57.465 T:10740  NOTICE: Creating InputStream
+14:12:57.563 T:10124   ERROR: 127.0.0.1 - - [21/Jun/2017 14:12:57] "GET /callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fbackup.sportsstreams.co.uk%3A8000%2Flive%2Farrong01%40gmail.com%2F050318%2F492.ts&swf=None&auth=&simpledownloader=False HTTP/1.1" 200 -
+14:12:59.264 T:10740  NOTICE: Creating Demuxer
+14:12:59.596 T:10740  NOTICE: Opening stream: 0 source: 256
+14:12:59.596 T:10740  NOTICE: Creating video codec with codec id: 28
+14:12:59.596 T:10740  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+14:12:59.596 T:10740  NOTICE: Creating video thread
+14:12:59.597 T:3692  NOTICE: running thread: video_thread
+14:12:59.616 T:10740  NOTICE: Opening stream: 0 source: 256
+14:12:59.616 T:10740  NOTICE: Creating video codec with codec id: 28
+14:12:59.616 T:10740  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+14:12:59.619 T:3692  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(960x720)
+14:12:59.683 T:10300  NOTICE: D3D: rendering method forced to DXVA processor
+14:12:59.683 T:10300  NOTICE: DXVA::CProcessorHD::InitProcessor: Supported deinterlace methods: Blend:yes, Bob:yes, Adaptive:yes, MoComp:no.
+14:12:59.688 T:10300 WARNING: CWinRenderer::UpdateVideoFilter - chosen scaling method 1 is not supported by renderer
+14:12:59.916 T:10740 WARNING: CDVDMessageQueue(audio)::Put MSGQ_NOT_INITIALIZED
+14:13:00.163 T:3692  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 33366
+14:13:07.363 T:3692 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+14:13:08.464 T:10740 WARNING: CDVDMessageQueue(audio)::Put MSGQ_NOT_INITIALIZED
+14:13:09.469 T:3692 WARNING: Previous line repeats 1 times.
+14:13:09.469 T:3692  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(960x720)
+14:13:09.478 T:3692   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+14:13:11.015 T:10300   ERROR: Previous line repeats 20 times.
+14:13:11.015 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:13:11.015 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:13:12.879 T:10740  NOTICE: CVideoPlayer::OnExit()
+14:13:12.879 T:10740  NOTICE: Closing stream player 2
+14:13:12.879 T:10740  NOTICE: waiting for video thread to exit
+14:13:12.879 T:3692   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+14:13:12.879 T:3692  NOTICE: thread end: video_thread
+14:13:12.879 T:10740  NOTICE: deleting video codec
+14:13:12.880 T:10740  NOTICE: DXVA::CDecoder::Close - closing decoder
+14:13:12.887 T:10740  NOTICE: Previous line repeats 1 times.
+14:13:12.887 T:10740  NOTICE: DXVA::Close - closing decoder context
+14:13:12.944 T:10300  NOTICE: VideoPlayer: finished waiting
+14:13:12.961 T:10300   ERROR: Control 55 in window 10025 has been asked to focus, but it can't
+14:13:13.122 T:10124   ERROR: Traceback (most recent call last):
+14:13:13.122 T:10124   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 599, in process_request_thread
+14:13:13.123 T:10124   ERROR:     self.finish_request(request, client_address)
+14:13:13.123 T:10124   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 334, in finish_request
+14:13:13.123 T:10124   ERROR:     self.RequestHandlerClass(request, client_address, self)
+14:13:13.123 T:10124   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 655, in __init__
+14:13:13.123 T:10124   ERROR:     self.handle()
+14:13:13.123 T:10124   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\BaseHTTPServer.py", line 342, in handle
+14:13:13.124 T:10124   ERROR:     self.handle_one_request()
+14:13:13.124 T:10124   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\BaseHTTPServer.py", line 310, in handle_one_request
+14:13:13.124 T:10124   ERROR:     self.raw_requestline = self.rfile.readline(65537)
+14:13:13.124 T:10124   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\socket.py", line 480, in readline
+14:13:13.125 T:10124   ERROR:     data = self._sock.recv(self._rbufsize)
+14:13:13.125 T:10124   ERROR: AttributeError: 'NoneType' object has no attribute 'recv'
+14:13:13.161 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:13:13.161 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:13:13.161 T:10300  NOTICE: VideoPlayer: finished waiting
+14:13:13.161 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:13:13.161 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:13:13.161 T:10300  NOTICE: VideoPlayer: finished waiting
+14:13:16.891 T:11172 WARNING: CPythonInvoker(21, C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.wolfpack\default.py): the python script "C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.wolfpack\default.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+14:13:29.499 T:5176  NOTICE: URLResolver: Initializing URLResolver version: 3.0.33.01
+14:13:29.704 T:5176 WARNING: Attempt to use invalid handle -1
+14:13:30.322 T:10300  NOTICE: VideoPlayer: Opening:
+14:13:30.322 T:10300 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+14:13:30.323 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 104 for 1.
+14:13:30.323 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 105 for 1.
+14:13:30.323 T:11116  NOTICE: Creating InputStream
+14:13:30.323 T:11116   ERROR: CVideoPlayer::OpenInputStream - error opening []
+14:13:30.323 T:11116  NOTICE: CVideoPlayer::OnExit()
+14:13:30.331 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:13:30.331 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:13:30.331 T:10300  NOTICE: VideoPlayer: finished waiting
+14:13:30.331 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:13:30.331 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:13:30.331 T:10300  NOTICE: VideoPlayer: finished waiting
+14:13:31.350 T:10300  NOTICE: VideoPlayer: Opening: http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fbackup.sportsstreams.co.uk%3A8000%2Flive%2Farrong01%40gmail.com%2F050318%2F2498.ts&swf=None&auth=&simpledownloader=False
+14:13:31.350 T:10300 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+14:13:31.350 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 104 for 1.
+14:13:31.350 T:10300   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 105 for 1.
+14:13:31.351 T:352  NOTICE: Creating InputStream
+14:13:31.446 T:784   ERROR: 127.0.0.1 - - [21/Jun/2017 14:13:31] "GET /callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fbackup.sportsstreams.co.uk%3A8000%2Flive%2Farrong01%40gmail.com%2F050318%2F2498.ts&swf=None&auth=&simpledownloader=False HTTP/1.1" 200 -
+14:13:32.471 T:352  NOTICE: Creating Demuxer
+14:13:32.581 T:352  NOTICE: Opening stream: 0 source: 256
+14:13:32.581 T:352  NOTICE: Creating video codec with codec id: 28
+14:13:32.581 T:352  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+14:13:32.582 T:352  NOTICE: Creating video thread
+14:13:32.582 T:352  NOTICE: Opening stream: 1 source: 256
+14:13:32.582 T:352  NOTICE: Finding audio codec for: 86018
+14:13:32.582 T:1372  NOTICE: running thread: video_thread
+14:13:32.583 T:352  NOTICE: Creating audio thread
+14:13:32.583 T:9732  NOTICE: running thread: CVideoPlayerAudio::Process()
+14:13:32.596 T:352  NOTICE: Opening stream: 0 source: 256
+14:13:32.596 T:352  NOTICE: Creating video codec with codec id: 28
+14:13:32.597 T:352  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+14:13:32.597 T:352  NOTICE: Opening stream: 1 source: 256
+14:13:32.600 T:1372  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(720x576)
+14:13:32.605 T:9732  NOTICE: Creating audio stream (codec id: 86018, channels: 2, sample rate: 48000, no pass-through)
+14:13:32.615 T:1372   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+14:13:32.782 T:1372   ERROR: Previous line repeats 6 times.
+14:13:32.782 T:1372  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 40000
+14:13:33.015 T:10300  NOTICE: D3D: rendering method forced to DXVA processor
+14:13:33.015 T:10300  NOTICE: DXVA::CProcessorHD::InitProcessor: Supported deinterlace methods: Blend:yes, Bob:yes, Adaptive:yes, MoComp:no.
+14:13:33.021 T:10300 WARNING: CWinRenderer::UpdateVideoFilter - chosen scaling method 1 is not supported by renderer
+14:13:33.566 T:1372 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+14:13:40.748 T:1372 WARNING: Previous line repeats 4 times.
+14:13:40.748 T:1372  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(720x576)
+14:13:40.754 T:1372   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+14:13:40.812 T:1372   ERROR: Previous line repeats 70 times.
+14:13:40.813 T:1372  NOTICE: DXVA::CDecoder::Close - closing decoder
+14:13:41.357 T:1372 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+14:13:44.090 T:10300 WARNING: Previous line repeats 1 times.
+14:13:44.090 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:13:44.090 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:13:44.156 T:352  NOTICE: CVideoPlayer::OnExit()
+14:13:44.156 T:352  NOTICE: Closing stream player 1
+14:13:44.156 T:352  NOTICE: Waiting for audio thread to exit
+14:13:44.156 T:9732   ERROR: Got MSGQ_ABORT or MSGO_IS_ERROR return true
+14:13:44.156 T:9732  NOTICE: thread end: CVideoPlayerAudio::OnExit()
+14:13:44.156 T:352  NOTICE: Closing audio device
+14:13:44.162 T:352  NOTICE: Deleting audio codec
+14:13:44.162 T:352  NOTICE: Closing stream player 2
+14:13:44.162 T:352  NOTICE: waiting for video thread to exit
+14:13:44.162 T:1372   ERROR: Got MSGQ_ABORT or MSGO_IS_ERROR return true
+14:13:44.162 T:1372  NOTICE: thread end: video_thread
+14:13:44.163 T:352  NOTICE: deleting video codec
+14:13:44.164 T:352  NOTICE: DXVA::CDecoder::Close - closing decoder
+14:13:44.164 T:352  NOTICE: DXVA::Close - closing decoder context
+14:13:44.193 T:10300  NOTICE: VideoPlayer: finished waiting
+14:13:44.208 T:10300   ERROR: Control 55 in window 10025 has been asked to focus, but it can't
+14:13:44.373 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:13:44.373 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:13:44.373 T:10300  NOTICE: VideoPlayer: finished waiting
+14:13:44.373 T:10300  NOTICE: CVideoPlayer::CloseFile()
+14:13:44.373 T:10300  NOTICE: VideoPlayer: waiting for threads to exit
+14:13:44.373 T:10300  NOTICE: VideoPlayer: finished waiting
+14:13:44.546 T:784   ERROR: Traceback (most recent call last):
+14:13:44.546 T:784   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 599, in process_request_thread
+14:13:44.547 T:784   ERROR:     self.finish_request(request, client_address)
+14:13:44.547 T:784   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 334, in finish_request
+14:13:44.548 T:784   ERROR:     self.RequestHandlerClass(request, client_address, self)
+14:13:44.548 T:784   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\SocketServer.py", line 655, in __init__
+14:13:44.548 T:784   ERROR:     self.handle()
+14:13:44.548 T:784   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\BaseHTTPServer.py", line 342, in handle
+14:13:44.549 T:784   ERROR:     self.handle_one_request()
+14:13:44.549 T:784   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\BaseHTTPServer.py", line 310, in handle_one_request
+14:13:44.549 T:784   ERROR:     self.raw_requestline = self.rfile.readline(65537)
+14:13:44.549 T:784   ERROR:   File "C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\system\python\Lib\socket.py", line 480, in readline
+14:13:44.550 T:784   ERROR:     data = self._sock.recv(self._rbufsize)
+14:13:44.550 T:784   ERROR: AttributeError: 'NoneType' object has no attribute 'recv'
+14:13:49.758 T:5176 WARNING: CPythonInvoker(23, C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.wolfpack\default.py): the python script "C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.wolfpack\default.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+14:14:15.850 T:4224   ERROR: CCurlFile::Stat - Failed: Couldn't resolve host name(6) for http://beaub.srve.io/wolfpackdata/beau/beausfitness.jpg
+14:14:17.418 T:10724   ERROR: CCurlFile::Stat - Failed: Couldn't resolve host name(6) for http://beaub.srve.io/wolfpackdata/beau/screensavers.jpg
+14:14:17.995 T:8260   ERROR: CCurlFile::Stat - Failed: Couldn't resolve host name(6) for http://beaub.srve.io/wolfpackdata/beau/thebuzz.jpg
+14:14:18.205 T:8260   ERROR: CCurlFile::Stat - Failed: Couldn't resolve host name(6) for http://beaub.srve.io/wolfpackdata/beau/cookbook.jpg
+14:14:18.990 T:4224   ERROR: CCurlFile::Stat - Failed: Couldn't resolve host name(6) for http://beaub.srve.io/wolfpackdata/beau/wrestling.jpg
+14:14:20.093 T:10724   ERROR: CCurlFile::Stat - Failed: Couldn't resolve host name(6) for http://beaub.srve.io/wolfpackdata/beau/beausfitness.jpg
+02:20:08.400 T:10300  NOTICE: CPowerManager::OnSleep: Running sleep jobs
+02:20:08.400 T:10300  NOTICE: CPowerManager::OnSleep: Stopping lirc
+12:32:45.382 T:10300  NOTICE: CPowerManager::OnWake: Running resume jobs
+12:32:45.382 T:10300  NOTICE: CPowerManager::OnWake: Restarting lirc
+12:32:45.402 T:9448  NOTICE: Found 2 Lists of Devices
+12:32:45.402 T:9448  NOTICE: Enumerated DIRECTSOUND devices:
+12:32:45.402 T:9448  NOTICE:     Device 1
+12:32:45.402 T:9448  NOTICE:         m_deviceName      : {E8EB9A20-14F2-4D67-8B31-3557B3203B65}
+12:32:45.402 T:9448  NOTICE:         m_displayName     : Speakers - Speakers / Headphones (IDT High Definition Audio CODEC)
+12:32:45.402 T:9448  NOTICE:         m_displayNameExtra: DIRECTSOUND: Speakers / Headphones (IDT High Definition Audio CODEC)
+12:32:45.402 T:9448  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+12:32:45.402 T:9448  NOTICE:         m_channels        : FL,FR
+12:32:45.402 T:9448  NOTICE:         m_sampleRates     : 48000
+12:32:45.402 T:9448  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+12:32:45.402 T:9448  NOTICE:         m_streamTypes     : No passthrough capabilities
+12:32:45.402 T:9448  NOTICE:     Device 2
+12:32:45.402 T:9448  NOTICE:         m_deviceName      : default
+12:32:45.403 T:9448  NOTICE:         m_displayName     : default
+12:32:45.403 T:9448  NOTICE:         m_displayNameExtra:
+12:32:45.403 T:9448  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+12:32:45.403 T:9448  NOTICE:         m_channels        : FL,FR
+12:32:45.403 T:9448  NOTICE:         m_sampleRates     : 48000
+12:32:45.403 T:9448  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+12:32:45.403 T:9448  NOTICE:         m_streamTypes     : No passthrough capabilities
+12:32:45.403 T:9448  NOTICE: Enumerated WASAPI devices:
+12:32:45.403 T:9448  NOTICE:     Device 1
+12:32:45.403 T:9448  NOTICE:         m_deviceName      : {E8EB9A20-14F2-4D67-8B31-3557B3203B65}
+12:32:45.403 T:9448  NOTICE:         m_displayName     : Speakers - Speakers / Headphones (IDT High Definition Audio CODEC)
+12:32:45.403 T:9448  NOTICE:         m_displayNameExtra: WASAPI: Speakers / Headphones (IDT High Definition Audio CODEC)
+12:32:45.403 T:9448  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+12:32:45.403 T:9448  NOTICE:         m_channels        : FL,FR
+12:32:45.403 T:9448  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+12:32:45.403 T:9448  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+12:32:45.403 T:9448  NOTICE:         m_streamTypes     : No passthrough capabilities
+12:32:45.403 T:9448  NOTICE:     Device 2
+12:32:45.403 T:9448  NOTICE:         m_deviceName      : default
+12:32:45.403 T:9448  NOTICE:         m_displayName     : default
+12:32:45.403 T:9448  NOTICE:         m_displayNameExtra:
+12:32:45.403 T:9448  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+12:32:45.403 T:9448  NOTICE:         m_channels        : FL,FR
+12:32:45.403 T:9448  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+12:32:45.403 T:9448  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+12:32:45.403 T:9448  NOTICE:         m_streamTypes     : No passthrough capabilities
+12:33:31.786 T:10300  NOTICE: Storing total System Uptime
+12:33:31.787 T:10300  NOTICE: Saving settings
+12:33:31.807 T:10300  NOTICE: Saving skin settings
+12:33:31.832 T:10300  NOTICE: stop all
+12:33:31.861 T:10300  NOTICE: stop player
+12:33:31.861 T:10300  NOTICE: ES: Stopping event server
+12:33:31.889 T:10300  NOTICE: stopping upnp
+12:33:32.721 T:10344  NOTICE: ES: UDP Event server stopped
+12:33:32.905 T:10300  NOTICE: clean cached files!
+12:33:33.199 T:9020  NOTICE: Skin Helper Service --> Shutdown requested !
+12:33:33.204 T:9020  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.3 stopped
+12:33:33.213 T:6164  NOTICE: Skin Helper Backgrounds --> BackgroundsUpdater - stop called
+12:33:33.323 T:10300  NOTICE: closing down remote control service
+12:33:33.324 T:10300  NOTICE: stopped
+12:33:33.548 T:10300  NOTICE: destroy
+12:33:33.548 T:10300  NOTICE: unload skin
+12:33:38.676 T:10300   ERROR: CPythonInvoker(12, C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.specto\default.py): script didn't stop in 5 seconds - let's kill it
+12:33:45.668 T:10300   ERROR: CPythonInvoker(13, C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.video.exodus\exodus.py): script didn't stop in 5 seconds - let's kill it
+12:33:50.963 T:10300  NOTICE: unload sections
+12:33:50.969 T:10300  NOTICE: special://profile/ is mapped to: special://masterprofile/
+12:33:51.033 T:10300  NOTICE: application stopped...

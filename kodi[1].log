@@ -1,0 +1,230 @@
+﻿14:46:37.939 T:4736  NOTICE: special://profile/ is mapped to: special://masterprofile/
+14:46:37.939 T:4736  NOTICE: -----------------------------------------------------------------------
+14:46:37.939 T:4736  NOTICE: Starting Kodi (17.3 Git:20170524-147cec4). Platform: Windows NT x86 32-bit
+14:46:37.939 T:4736  NOTICE: Using Release Kodi x32 build
+14:46:37.939 T:4736  NOTICE: Kodi compiled May 24 2017 by MSVC 190024215 for Windows NT x86 32-bit version 10.0 (0x0A000000)
+14:46:37.939 T:4736  NOTICE: Running on Dell Inc. Studio 1749 with Windows 10, kernel: Windows NT x86 64-bit version 10.0
+14:46:37.940 T:4736  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+14:46:37.940 T:4736  NOTICE: Host CPU: Unknown, 4 cores available
+14:46:37.957 T:4736  NOTICE: Desktop Resolution: 1600x900 32Bit at 60Hz
+14:46:37.957 T:4736  NOTICE: Running with restricted rights
+14:46:37.959 T:4736  NOTICE: Aero is enabled
+14:46:37.959 T:4736  NOTICE: special://xbmc/ is mapped to: C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p
+14:46:37.959 T:4736  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p
+14:46:37.959 T:4736  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p/addons
+14:46:37.959 T:4736  NOTICE: special://masterprofile/ is mapped to: C:\Users\thebo\AppData\Roaming\Kodi\userdata
+14:46:37.959 T:4736  NOTICE: special://home/ is mapped to: C:\Users\thebo\AppData\Roaming\Kodi\
+14:46:37.959 T:4736  NOTICE: special://temp/ is mapped to: C:\Users\thebo\AppData\Roaming\Kodi\cache
+14:46:37.959 T:4736  NOTICE: special://logpath/ is mapped to: C:\Users\thebo\AppData\Roaming\Kodi\
+14:46:37.959 T:4736  NOTICE: The executable running is: C:\Program Files\WindowsApps\XBMCFoundation.Kodi_17.3.0.0_x86__4n2hpmxwrvr6p\Kodi.exe
+14:46:37.968 T:4736  NOTICE: Local hostname: DESKTOP-KCAIAJL
+14:46:37.968 T:4736  NOTICE: Log File is located: C:\Users\thebo\AppData\Roaming\Kodi\/kodi.log
+14:46:37.968 T:4736  NOTICE: -----------------------------------------------------------------------
+14:46:37.975 T:4736  NOTICE: load settings...
+14:46:37.998 T:4736 WARNING: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
+14:46:37.998 T:4736 WARNING: CSettingString: unknown options filler "timezones" of "locale.timezone"
+14:46:38.010 T:4736  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+14:46:38.011 T:4736  NOTICE: Loaded settings file from special://profile/advancedsettings.xml
+14:46:38.011 T:4736  NOTICE: Contents of special://profile/advancedsettings.xml are...
+                                            <!-- zerocache -->
+                                            <advancedsettings>
+                                              <network>
+                                                <cachemembuffersize>0</cachemembuffersize>
+                                                <curlclienttimeout>45</curlclienttimeout>
+                                              </network>
+                                              <gui>
+                                                <algorithmdirtyregions>3</algorithmdirtyregions>
+                                                <nofliptimeout>0</nofliptimeout>
+                                              </gui>
+                                              <videoscanner>
+                                                <ignoreerrors>true</ignoreerrors>
+                                              </videoscanner>
+                                            </advancedsettings>
+14:46:38.012 T:4736  NOTICE: Default Video Player: VideoPlayer
+14:46:38.012 T:4736  NOTICE: Default Audio Player: paplayer
+14:46:38.012 T:4736  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+14:46:38.012 T:4736  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+14:46:38.012 T:4736  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+14:46:38.015 T:4736  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+14:46:38.016 T:4736  NOTICE: Loaded playercorefactory configuration
+14:46:38.016 T:4736  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+14:46:38.017 T:4736  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+14:46:38.055 T:4736  NOTICE: Running database version Addons27
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.xbmc.org
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.GearsTV
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.M-TVGuide
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.noobsandnerds
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.filmkodi.com
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.q
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.aresproject
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.bubbles
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.dandymedia
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.elysium
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.exodus
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.tva.common
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.primaeval
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.schismtvaddons
+14:46:38.505 T:4736  NOTICE: ADDONS: Using repository repository.wolfpack
+14:46:38.614 T:10076  NOTICE: Found 2 Lists of Devices
+14:46:38.614 T:10076  NOTICE: Enumerated DIRECTSOUND devices:
+14:46:38.614 T:10076  NOTICE:     Device 1
+14:46:38.614 T:10076  NOTICE:         m_deviceName      : {E8EB9A20-14F2-4D67-8B31-3557B3203B65}
+14:46:38.614 T:10076  NOTICE:         m_displayName     : Speakers - Speakers / Headphones (IDT High Definition Audio CODEC)
+14:46:38.614 T:10076  NOTICE:         m_displayNameExtra: DIRECTSOUND: Speakers / Headphones (IDT High Definition Audio CODEC)
+14:46:38.614 T:10076  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:46:38.614 T:10076  NOTICE:         m_channels        : FL,FR
+14:46:38.614 T:10076  NOTICE:         m_sampleRates     : 48000
+14:46:38.614 T:10076  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+14:46:38.614 T:10076  NOTICE:         m_streamTypes     : No passthrough capabilities
+14:46:38.614 T:10076  NOTICE:     Device 2
+14:46:38.614 T:10076  NOTICE:         m_deviceName      : default
+14:46:38.614 T:10076  NOTICE:         m_displayName     : default
+14:46:38.614 T:10076  NOTICE:         m_displayNameExtra:
+14:46:38.614 T:10076  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:46:38.614 T:10076  NOTICE:         m_channels        : FL,FR
+14:46:38.614 T:10076  NOTICE:         m_sampleRates     : 48000
+14:46:38.615 T:10076  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+14:46:38.615 T:10076  NOTICE:         m_streamTypes     : No passthrough capabilities
+14:46:38.615 T:10076  NOTICE: Enumerated WASAPI devices:
+14:46:38.615 T:10076  NOTICE:     Device 1
+14:46:38.615 T:10076  NOTICE:         m_deviceName      : {E8EB9A20-14F2-4D67-8B31-3557B3203B65}
+14:46:38.615 T:10076  NOTICE:         m_displayName     : Speakers - Speakers / Headphones (IDT High Definition Audio CODEC)
+14:46:38.615 T:10076  NOTICE:         m_displayNameExtra: WASAPI: Speakers / Headphones (IDT High Definition Audio CODEC)
+14:46:38.615 T:10076  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:46:38.615 T:10076  NOTICE:         m_channels        : FL,FR
+14:46:38.615 T:10076  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+14:46:38.615 T:10076  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+14:46:38.615 T:10076  NOTICE:         m_streamTypes     : No passthrough capabilities
+14:46:38.615 T:10076  NOTICE:     Device 2
+14:46:38.615 T:10076  NOTICE:         m_deviceName      : default
+14:46:38.615 T:10076  NOTICE:         m_displayName     : default
+14:46:38.615 T:10076  NOTICE:         m_displayNameExtra:
+14:46:38.615 T:10076  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:46:38.615 T:10076  NOTICE:         m_channels        : FL,FR
+14:46:38.615 T:10076  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+14:46:38.615 T:10076  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+14:46:38.615 T:10076  NOTICE:         m_streamTypes     : No passthrough capabilities
+14:46:38.735 T:4736  NOTICE: Found screen: Generic PnP Monitor on Intel(R) HD Graphics, adapter 0.
+14:46:38.736 T:4736  NOTICE: Primary mode: 1600x900@ 60.00 - Full Screen
+14:46:38.737 T:4736  NOTICE: Additional mode: 320x200@ 60.00 - Full Screen
+14:46:38.738 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.738 T:4736  NOTICE: Additional mode: 320x240@ 60.00 - Full Screen
+14:46:38.740 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.740 T:4736  NOTICE: Additional mode: 400x300@ 60.00 - Full Screen
+14:46:38.741 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.741 T:4736  NOTICE: Additional mode: 512x384@ 60.00 - Full Screen
+14:46:38.742 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.742 T:4736  NOTICE: Additional mode: 640x400@ 60.00 - Full Screen
+14:46:38.743 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.743 T:4736  NOTICE: Additional mode: 640x480@ 60.00 - Full Screen
+14:46:38.744 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.744 T:4736  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+14:46:38.745 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.745 T:4736  NOTICE: Additional mode: 1024x768@ 60.00 - Full Screen
+14:46:38.746 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.746 T:4736  NOTICE: Additional mode: 1152x864@ 60.00 - Full Screen
+14:46:38.747 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.747 T:4736  NOTICE: Additional mode: 1280x720@ 60.00 - Full Screen
+14:46:38.748 T:4736  NOTICE: Previous line repeats 1 times.
+14:46:38.748 T:4736  NOTICE: Additional mode: 1280x768@ 60.00 - Full Screen
+14:46:38.749 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.749 T:4736  NOTICE: Additional mode: 1280x800@ 60.00 - Full Screen
+14:46:38.750 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.750 T:4736  NOTICE: Additional mode: 1360x768@ 60.00 - Full Screen
+14:46:38.752 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.752 T:4736  NOTICE: Additional mode: 1366x768@ 60.00 - Full Screen
+14:46:38.753 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.753 T:4736  NOTICE: Additional mode: 1440x900@ 60.00 - Full Screen
+14:46:38.754 T:4736  NOTICE: Previous line repeats 2 times.
+14:46:38.754 T:4736  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+14:46:38.754 T:4736  NOTICE: Checking resolution 16
+14:46:39.533 T:4736   ERROR: POParser: warning, unhandled escape character. Problematic entry: 
+                                            msgctxt "#34220"
+                                            msgid "The label to show for streams with multiple audio languages. Either show all languages or the word [I]Multi[\I]."
+                                            msgstr ""
+14:46:39.652 T:10040  NOTICE: Running database version Addons27
+14:46:39.659 T:10040  NOTICE: Running database version ViewModes6
+14:46:39.664 T:10040  NOTICE: Running database version Textures13
+14:46:39.675 T:10040  NOTICE: Running database version MyMusic60
+14:46:39.690 T:10040  NOTICE: Running database version MyVideos107
+14:46:39.699 T:10040  NOTICE: Running database version TV29
+14:46:39.705 T:10040  NOTICE: Running database version Epg11
+14:46:40.214 T:4736 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+14:46:40.702 T:4736  NOTICE: initialize done
+14:46:40.702 T:4736  NOTICE: Running the application...
+14:46:40.703 T:4736  NOTICE: starting upnp client
+14:46:40.712 T:10192  NOTICE: ES: Starting UDP Event server on port 9777
+14:46:40.712 T:10192  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+14:46:47.870 T:10040   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5
+14:46:47.870 T:10040   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5>
+14:46:47.871 T:10040   ERROR: CRepository: failed read 'https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5'
+14:46:48.292 T:10040   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5
+14:46:48.292 T:10040   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5>
+14:46:48.292 T:10040   ERROR: CRepository: failed read 'https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5'
+14:46:49.982 T:10040   ERROR: CCurlFile::Open failed with code 404 for http://schism-tv.net/addons/addons.xml.md5
+14:46:49.982 T:10040   ERROR: XFILE::CFileCache::Open - failed to open source <http://schism-tv.net/addons/addons.xml.md5>
+14:46:49.982 T:10040   ERROR: CRepository: failed read 'http://schism-tv.net/addons/addons.xml.md5'
+14:46:52.708 T:10040   ERROR: XFILE::CDirectory::GetDirectory - Error getting
+14:46:56.854 T:5936   ERROR: Previous line repeats 2 times.
+14:46:56.854 T:5936  NOTICE: Skin Helper Backgrounds --> BackgroundsUpdater - started
+14:46:57.441 T:10040   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5
+14:46:57.441 T:10040   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5>
+14:46:57.441 T:10040   ERROR: CRepository: failed read 'https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5'
+14:46:57.760 T:10040   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5
+14:46:57.761 T:10040   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5>
+14:46:57.761 T:10040   ERROR: CRepository: failed read 'https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5'
+14:46:59.404 T:10040   ERROR: CCurlFile::Open failed with code 404 for http://schism-tv.net/addons/addons.xml.md5
+14:46:59.404 T:10040   ERROR: XFILE::CFileCache::Open - failed to open source <http://schism-tv.net/addons/addons.xml.md5>
+14:46:59.404 T:10040   ERROR: CRepository: failed read 'http://schism-tv.net/addons/addons.xml.md5'
+14:47:00.429 T:6212 WARNING: CPythonInvoker(1, C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.program.mtvguidepro\service.py): the python script "C:\Users\thebo\AppData\Roaming\Kodi\addons\plugin.program.mtvguidepro\service.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+14:47:00.502 T:4504  NOTICE: [plugin.video.youtube] Startup: detected Krypton (Kodi-17.3), setting DASH_SUPPORT_BUILTIN = False, DASH_SUPPORT_ADDON = True
+14:47:00.883 T:6548  NOTICE: Skin Helper Service --> WebService - start helper webservice on port 52307
+14:47:00.883 T:8448  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.3 started
+14:47:04.224 T:4768  NOTICE: [SPECTO]: ->----------                PARAMS: {'action': 'service'}
+14:47:30.181 T:10040   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5
+14:47:30.182 T:10040   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5>
+14:47:30.182 T:10040   ERROR: CRepository: failed read 'https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5'
+14:47:30.748 T:10112   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5
+14:47:30.748 T:10112   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5>
+14:47:30.749 T:10112   ERROR: CRepository: failed read 'https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5'
+14:47:31.241 T:10104   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+14:47:31.241 T:10104   ERROR: CCurlFile::Open failed with code 0 for https://offshoregit.com/bubbles/repository/common/addons.xml.md5
+14:47:31.241 T:10104   ERROR: XFILE::CFileCache::Open - failed to open source <https://offshoregit.com/bubbles/repository/common/addons.xml.md5>
+14:47:31.241 T:10104   ERROR: CRepository: failed read 'https://offshoregit.com/bubbles/repository/common/addons.xml.md5'
+14:47:31.907 T:10112   ERROR: CCurlFile::Open failed with code 404 for http://schism-tv.net/addons/addons.xml.md5
+14:47:31.907 T:10112   ERROR: XFILE::CFileCache::Open - failed to open source <http://schism-tv.net/addons/addons.xml.md5>
+14:47:31.907 T:10112   ERROR: CRepository: failed read 'http://schism-tv.net/addons/addons.xml.md5'
+14:49:17.992 T:8040   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5
+14:49:17.992 T:8040   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5>
+14:49:17.992 T:8040   ERROR: CRepository: failed read 'https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5'
+14:49:18.314 T:8328   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5
+14:49:18.314 T:8328   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5>
+14:49:18.315 T:8328   ERROR: CRepository: failed read 'https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5'
+14:49:19.440 T:8328   ERROR: CCurlFile::Open failed with code 404 for http://schism-tv.net/addons/addons.xml.md5
+14:49:19.440 T:8328   ERROR: XFILE::CFileCache::Open - failed to open source <http://schism-tv.net/addons/addons.xml.md5>
+14:49:19.440 T:8328   ERROR: CRepository: failed read 'http://schism-tv.net/addons/addons.xml.md5'
+14:50:02.615 T:8488   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+14:50:02.615 T:8488   ERROR: CCurlFile::Open failed with code 0 for https://offshoregit.com/bubbles/repository/common/addons.xml.md5
+14:50:02.615 T:8488   ERROR: XFILE::CFileCache::Open - failed to open source <https://offshoregit.com/bubbles/repository/common/addons.xml.md5>
+14:50:02.615 T:8488   ERROR: CRepository: failed read 'https://offshoregit.com/bubbles/repository/common/addons.xml.md5'
+14:52:14.100 T:8488   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5
+14:52:14.100 T:8488   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5>
+14:52:14.100 T:8488   ERROR: CRepository: failed read 'https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5'
+14:52:14.502 T:8488   ERROR: CCurlFile::Open failed with code 404 for https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5
+14:52:14.502 T:8488   ERROR: XFILE::CFileCache::Open - failed to open source <https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5>
+14:52:14.502 T:8488   ERROR: CRepository: failed read 'https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5'
+14:52:15.457 T:7332   ERROR: CCurlFile::Open failed with code 404 for http://schism-tv.net/addons/addons.xml.md5
+14:52:15.457 T:7332   ERROR: XFILE::CFileCache::Open - failed to open source <http://schism-tv.net/addons/addons.xml.md5>
+14:52:15.457 T:7332   ERROR: CRepository: failed read 'http://schism-tv.net/addons/addons.xml.md5'
+14:52:58.497 T:8040   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+14:52:58.497 T:8040   ERROR: CCurlFile::Open failed with code 0 for https://offshoregit.com/bubbles/repository/common/addons.xml.md5
+14:52:58.497 T:8040   ERROR: XFILE::CFileCache::Open - failed to open source <https://offshoregit.com/bubbles/repository/common/addons.xml.md5>
+14:52:58.497 T:8040   ERROR: CRepository: failed read 'https://offshoregit.com/bubbles/repository/common/addons.xml.md5'
+14:53:45.622 T:6904   ERROR: XFILE::CDirectory::GetDirectory - Error getting
+15:01:15.824 T:588   ERROR: Previous line repeats 9 times.
+15:01:15.824 T:588  NOTICE: Ares Wizard: ---- A R E S  W I Z A R D  L A U N C H ---
+15:01:15.824 T:588  NOTICE: Ares Wizard:
+15:01:15.824 T:588  NOTICE: Ares Wizard: @ares: wizard version = 0.0.58
+15:01:37.013 T:588  NOTICE: Ares Wizard: @ares: checkbuildupdate = no
+15:03:15.775 T:588  NOTICE: Ares Wizard: delete cache selected
+15:03:18.681 T:588  NOTICE: Ares Wizard: delete packages selected
